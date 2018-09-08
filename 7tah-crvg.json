@@ -1,0 +1,50 @@
+[
+    {
+        "grupo_de_edad":"(00 a 04)",
+        "hombre_1":"964",
+        "hombre_2":"20.01",
+        "mujer_1":"862",
+        "mujer_2":"15.35",
+        "tasa_hombre":"43.60",
+        "tasa_mujer":"40.84",
+        "tasa_total":"42.25",
+        "total_1":"1826",
+        "total_2":"17.50"
+    },
+    {
+        "grupo_de_edad":"(05 a 09)",
+        "hombre_1":"1448",
+        "hombre_2":"30.05",
+        "mujer_1":"1231",
+        "mujer_2":"21.93",
+        "tasa_hombre":"66.51",
+        "tasa_mujer":"59.14",
+        "tasa_total":"62.91",
+        "total_1":"2679",
+        "total_2":"25.68"
+    },
+    {
+        "grupo_de_edad":"(10 a 14)",
+        "hombre_1":"1597",
+        "hombre_2":"33.15",
+        "mujer_1":"1995",
+        "mujer_2":"35.54",
+        "tasa_hombre":"73.00",
+        "tasa_mujer":"95.22",
+        "tasa_total":"83.87",
+        "total_1":"3592",
+        "total_2":"34.43"
+    },
+    {
+        "grupo_de_edad":"(15 a 17)",
+        "hombre_1":"809",
+        "hombre_2":"16.79",
+        "mujer_1":"1526",
+        "mujer_2":"27.18",
+        "tasa_hombre":"60.89",
+        "tasa_mujer":"119.72",
+        "tasa_total":"89.69",
+        "total_1":"2335",
+        "total_2":"22.38"
+    }
+]
